@@ -31,13 +31,18 @@ Here are some ideas to get you started:
 
 <h1>🙋 About me:</h1> 
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building software applications. 
+🚀 Full-Stack Engineer | ☁️ Cloud Enthusiast  | 🛠️ Problem-Solver
 
-- 🌱 Exploring Technical Content Writing.
- 
-- 🤝: Contributing in <b>Open Source</b> 
+🔭 Currently: Building scalable apps with Golang, React, TypeScript, GCP and AWS services.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viren-bm242/)
+🌱 Learning: AI/ML integration (OpenAI APIs, GCP Vertex AI) and distributed systems design.
+
+💡 Passionate About: Clean architecture, performance optimization, and intuitive UX.
+
+✨ Fun Fact: I debug best with coffee and whiteboard doodles.
+
+📫 Reach Out:
+[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viren-bm242/)
 
 <h1 style="margin-top:40px">🛠️ Languages and Tools:</h1>
 
