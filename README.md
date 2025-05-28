@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <h1 align="center" style="margin-top:20px">Hi there👋, I'm Viren Malavia </h1>
 <h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Software Developer</h2>
 
- 
-<h1>About me :</h1> 
+<h1>🙋 About me:</h1> 
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building software applications. 
 
@@ -40,9 +39,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viren-bm242/)
 
-<h1 style="margin-top:40px"> 🛠️ Languages and Tools : </h1>
+<h1 style="margin-top:40px">🛠️ Languages and Tools:</h1>
 
-<h3 style="margin:15px 0px">Frontend Languages :</h3>
+<h3 style="margin:15px 0px">Frontend Languages:</h3>
  
 <div align="left" style="margin-bottom:25px">
   <img alt="html" src="https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=red"/>
