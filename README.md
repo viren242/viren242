@@ -25,8 +25,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
-<h1 align="center" style="margin-top:20px">Hi 👋, I'm Viren Malavia </h1>
- 
+
+<h1 align="center" style="margin-top:20px">Hi there👋, I'm Viren Malavia </h1>
 <h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Software Developer</h2>
 
  
