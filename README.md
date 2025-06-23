@@ -13,17 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center"> 
-  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/> 
-</div> 
-<br /> 
-<div id="badges" align="center" style="margin-top:20px"> 
-  <a href="https://www.linkedin.com/in/viren-bm242/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="https://leetcode.com/u/viren242/">
-    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+<div id="header" align="center">
+  <!-- Animated profile image with subtle shadow -->
+  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  
+  <!-- Animated typing effect -->
+  <div style="margin: 15px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together" alt="Typing SVG" />
+  </div>
+</div>
+
+<!-- Social badges with hover effects -->
+<div id="badges" align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <!-- LinkedIn with pulse animation -->
+  <a href="https://www.linkedin.com/in/viren-bm242/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(0,119,181,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
   </a>
+  
+  <!-- LeetCode with pulse animation -->
+  <a href="https://leetcode.com/u/viren242/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(255,161,22,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+  </a>
+  
+  <!-- GitHub badge (added as example) -->
+  <a href="https://github.com/yourusername" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(24,23,23,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+  </a>
+  
+  <!-- Twitter/X badge (example) -->
+  <a href="https://twitter.com/yourhandle" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+  </a>
+</div>
+
+<!-- Divider line -->
+<div align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%" height="2px" alt="Divider" style="margin: 20px 0; opacity: 0.5;"/>
 </div>
 
 <h1 align="center" style="margin-top:20px">
@@ -83,21 +108,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/viren-bm242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:virenmalavia242@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/viren242">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://leetcode.com/u/viren242/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </div>
-
-
-
-
-
 
 <h1 style="margin-top:40px">🛠️ Languages and Tools:</h1>
 
