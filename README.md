@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/viren-bm242/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=messenger&logoColor=white&labelColor=000000" alt="LinkedIn" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=imessage&logoColor=white&labelColor=000000" alt="LinkedIn" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
   
   <!-- LeetCode -->
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/viren-bm242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=messenger&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=imessage&logoColor=white" alt="LinkedIn">
   </a>
 
   <!-- Gmail -->
