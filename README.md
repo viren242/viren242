@@ -123,19 +123,6 @@ Here are some ideas to get you started:
 
 <h1 style="margin-top:40px">🛠️ Languages and Tools:</h1>
 
-<h3 style="margin:15px 0px">Frontend Development:</h3>
- 
-<div align="left" style="margin-bottom:25px">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=EFD81D"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-%23323330.svg?style=for-the-badge&logo=mui&logoColor=007FFF"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
-</div>
-
 <h3 style="margin:15px 0px">Backend Development:</h3>
 
 <div align="left" style="margin-bottom:25px">
@@ -147,6 +134,19 @@ Here are some ideas to get you started:
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=000000"/>
   <img alt="SQL" src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</div>
+
+<h3 style="margin:15px 0px">Frontend Development:</h3>
+ 
+<div align="left" style="margin-bottom:25px">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=EFD81D"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-%23323330.svg?style=for-the-badge&logo=mui&logoColor=007FFF"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
 </div>
 
 <h3 style="margin:15px 0px">Databases:</h3>
