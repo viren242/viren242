@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
 <h1>🌟 About Me</h1> 
