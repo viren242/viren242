@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   <!-- Animated typing effect -->
   <div style="margin: 15px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0357F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together" alt="Typing SVG" />
   </div>
 </div>
 
