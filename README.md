@@ -23,26 +23,21 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<!-- Social badges with hover effects -->
+<!-- Social badges -->
 <div id="badges" align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <!-- LinkedIn with pulse animation -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/viren-bm242/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(0,119,181,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=messenger&logoColor=white&labelColor=000000" alt="LinkedIn" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
   
-  <!-- LeetCode with pulse animation -->
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/viren242/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(255,161,22,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
   
-  <!-- GitHub badge (added as example) -->
-  <a href="https://github.com/yourusername" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(24,23,23,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
-  </a>
-  
-  <!-- Twitter/X badge (example) -->
-  <a href="https://twitter.com/yourhandle" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" style="transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)'"/>
+  <!-- GitHub -->
+  <a href="https://github.com/viren242" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
 </div>
 
@@ -59,7 +54,7 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=435&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
 <h1>🌟 About Me</h1> 
@@ -105,15 +100,22 @@ Here are some ideas to get you started:
 
 <h3>📫 Let's Connect</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/viren-bm242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=messenger&logoColor=white" alt="LinkedIn">
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:virenmalavia242@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  
+  <!-- GitHub -->
   <a href="https://github.com/viren242">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
+  <!-- LeetCode --> 
   <a href="https://leetcode.com/u/viren242/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
