@@ -171,3 +171,8 @@ Here are some ideas to get you started:
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23323330.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 </div>
 <br>
+
+<!-- Profile View Counter Badge -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=viren242&label=Profile%20views&color=0e75b6&style=flat" alt="viren242" />
+</p>
