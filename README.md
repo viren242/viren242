@@ -18,9 +18,11 @@ Here are some ideas to get you started:
   <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   
   <!-- Animated typing effect -->
+  <!--
   <div style="margin: 15px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0357F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together" alt="Typing SVG" />
   </div>
+  -->
 </div>
 
 <!-- Social badges -->
@@ -41,20 +43,22 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<!-- Divider line -->
-<div align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%" height="2px" alt="Divider" style="margin: 20px 0; opacity: 0.5;"/>
-</div>
-
 <h1 align="center" style="margin-top:20px">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Viren Malavia 
 </h1>
+
 <h2 align="center" style="font-size:35px; color:#0357F7; text-shadow: 1px 1px 2px #00000040;">
   Full Stack Developer | Cloud Architect | Problem Solver
 </h2>
 
+<!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
+</div>
+
+<!-- Divider line -->
+<div align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%" height="2px" alt="Divider" style="margin: 20px 0; opacity: 0.5;"/>
 </div>
 
 <h1>🌟 About Me</h1> 
