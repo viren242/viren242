@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Turning+ideas+into+scalable+solutions;Clean+code+enthusiast;Cloud-native+developer;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
 <!-- Divider line -->
