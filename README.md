@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
     <h3>🌱 Currently Learning</h3>
     <p><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</p>
-    <p>Design patterns for <strong>distributed systems</strong></p>
+    <p><strong>System Design</strong></p>
     <img src="https://skillicons.dev/icons?i=ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
   </div>
   
