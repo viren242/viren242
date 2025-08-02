@@ -184,3 +184,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=viren242&label=Profile%20views&color=0e75b6&style=flat" alt="viren242" />
 </p>
 -->
+
+
+<!-- References -->
+<!--
+Setup README for my GitHub profile: https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
+Badges for my profile in GitHub: https://shields.io/badges
+-->
