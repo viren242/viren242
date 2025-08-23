@@ -82,13 +82,15 @@ Here are some ideas to get you started:
   
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
     <h3>🌱 Currently Learning</h3>
-    <p><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</p>
-    <p><strong>System Design</strong></p>
+    <ul style="margin-top: 0; padding-left: 20px;">
+      <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>
+      <li><strong>System Design</strong></li>
+    </ul>
     <img src="https://skillicons.dev/icons?i=ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
   </div>
   
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
-    <h3>💡 Passionate About</h3>
+    <h3>💡 I like</h3>
     <ul style="margin-top: 0; padding-left: 20px;">
       <li>Clean architecture & maintainable code</li>
       <li>Performance optimization</li>
