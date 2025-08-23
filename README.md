@@ -31,18 +31,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/viren-bm242/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:virenmalavia242@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
+  </a>
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/viren242/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
   </a>
-
-  <!-- GitHub -->
-  <!--
-  <a href="https://github.com/viren242" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" style="box-shadow: 0 2px 5px rgba(0,0,0,0.1);"/>
-  </a>
-  -->
 </div>
 
 <h1 align="center" style="margin-top:20px">
