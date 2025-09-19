@@ -81,7 +81,8 @@ Here are some ideas to get you started:
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
     <h3>🌱 Currently Learning</h3>
     <ul style="margin-top: 0; padding-left: 20px;">
-      <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>
+      <li>Pursuing Google Cloud <strong>Professional Cloud Architect</strong> certification</li>
+<!--       <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>/ --> <!-- Resume once the GCP certification is achieved -->
       <li><strong>System Design</strong></li>
     </ul>
     <img src="https://skillicons.dev/icons?i=ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
