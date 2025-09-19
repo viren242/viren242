@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <!--       <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>/ --> <!-- Resume once the GCP certification is achieved -->
       <li><strong>System Design</strong></li>
     </ul>
-    <img src="https://skillicons.dev/icons?i=ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
+    <img src="https://skillicons.dev/icons?i=gcp,ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
   </div>
   
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
