@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <!-- Animated profile image with subtle shadow -->
-  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- Animated profile image -->
+  <!-- <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/> -->
+  <img width="325" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
   
   <!-- Animated typing effect -->
   <!--
