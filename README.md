@@ -34,7 +34,7 @@
 </h1>
 
 <h2 align="center" style="font-size:35px; color:#0357F7; text-shadow: 1px 1px 2px #00000040;">
-  Full Stack Developer | Cloud Architect | Problem Solver
+  Full Stack Developer | Cloud Architect | 2x GCP Certified
 </h2>
 
 <!-- Animated typing effect -->
@@ -67,8 +67,7 @@
   <div style="flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px;">
     <h3>🌱 Currently Learning</h3>
     <ul style="margin-top: 0; padding-left: 20px;">
-      <li>Pursuing Google Cloud <strong>Professional Cloud Architect</strong> certification</li>
-<!--       <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>/ --> <!-- Resume once the GCP certification is achieved -->
+      <li><strong>AI/ML integration</strong> with OpenAI APIs and GCP Vertex AI</li>
       <li><strong>System Design</strong></li>
     </ul>
     <img src="https://skillicons.dev/icons?i=gcp,ai,kubernetes" alt="Learning Tech" style="height: 30px; margin-top: 10px;">
