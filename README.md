@@ -34,7 +34,7 @@
 </h1>
 
 <h2 align="center" style="font-size:35px; color:#0357F7; text-shadow: 1px 1px 2px #00000040;">
-  Full Stack Developer | Cloud Architect | 3x GCP Certified
+  Full Stack Developer | Cloud Architect | 4x GCP Certified
 </h2>
 
 <!-- Animated typing effect -->
