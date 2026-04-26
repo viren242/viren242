@@ -51,7 +51,7 @@
 
 <div style="background: #f8f9fa; border-radius: 8px; padding: 20px; margin: 15px 0; border-left: 5px solid #0357F7;">
   <p style="font-size: 1.1em; line-height: 1.6;">
-    I'm a passionate <strong>Full-Stack Developer</strong> with expertise in building robust, cloud-native applications. 
+    I'm a passionate <strong>Full-Stack Software Developer</strong> with expertise in building robust, cloud-native applications. 
     With a strong foundation in both frontend and backend technologies, I specialize in creating seamless digital experiences 
     that scale effortlessly.
   </p>
